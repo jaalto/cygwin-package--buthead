@@ -1,0 +1,4 @@
+sdesc: "Copy all but the first few lines"
+ldesc: "Utility to copy all but the first N lines of stdin to stdout."
+category: Utils
+requires: cygwin

@@ -1,0 +1,2 @@
+tag1: buthead
+  http://packages.debian.org/unstable/buthead pregexp:orig.tar.gz file:buthead_1.1.orig.tar.gz new: x:
